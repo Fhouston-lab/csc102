@@ -1,0 +1,16 @@
+<!-- Flossie Houston 7/13/2025 -->
+<!-- DOCTYPE  -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSC102 Home Page </title>
+</head>
+<body>
+  <h1>Welocme to my CSC102 Home Page4</h1>
+<!-- p is paragraph tag; has spacing around i by default-->
+  <p>
+<!-- img is the image tag -->
+   <img id="memeImage"index.html PM.png">
+  </p>
+</body>
+<html>
